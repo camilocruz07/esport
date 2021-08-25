@@ -2,7 +2,7 @@ numero1= 45
 numero2= 34
 
 
-operacion = input("elija una opcion ")
+operacion = input("ELIJA UNA OPCIION: ")
 if operacion =="a": 
     suma = numero1 + numero2 
     print ("el resultado es: ", suma)
